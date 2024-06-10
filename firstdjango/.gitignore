@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.sqlite3
+*.db
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Secret keys
+*.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Logs
+*.log
+
+# Compiled Python bytecode
+*.pyc
+
+# Dependency directories
+node_modules/
+bower_components/
+g
